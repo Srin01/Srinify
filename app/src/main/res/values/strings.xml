@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="on_drawer_opened">Navigation Drawer Was Opened</string>
+    <string name="on_drawer_closed">Navigation drawer was closed</string>
+    <string name="where_you_play_your_own_music">Where you play your own music</string>
+    <string name="welcome_to_srinify">Welcome To Srinify</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
